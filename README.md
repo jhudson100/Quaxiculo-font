@@ -1,4 +1,4 @@
-The Laus Font
+The Quassatio Font
 =============
 
 Remember the old dot-matrix printers? The really old ones with nine-pin printheads?
