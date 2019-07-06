@@ -8,5 +8,6 @@ horizontal dot positioning at half-dot precision.
 
 Licensed under the SIL Open Font License v1.1.
 
+![sample][preview.png]
 
 Work in progress.
