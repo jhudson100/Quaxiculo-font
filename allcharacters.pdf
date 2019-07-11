@@ -2,10 +2,10 @@
 %Å‚ÇÉ
 1 0 obj
 <<
-  /Title (Font Display for Quassatio)
+  /Title (Font Display for Quaxiculo)
   /Creator (FontForge)
   /Producer (FontForge)
-    /CreationDate (D:20190710231942+05'00')
+    /CreationDate (D:20190711140744+05'00')
   /Author (jhudson)
 >>
 endobj
@@ -18,258 +18,163 @@ endobj
 endobj
 
 3 0 obj
-<< /Length 111252 /Length1 23179 /Length2 87540 /Length3 533>>
+<< /Length 109542 /Length1 21469 /Length2 87540 /Length3 533>>
 stream
-%!PS-AdobeFont-1.0: Quassatio 001.000
-%%Title: Quassatio
+%!PS-AdobeFont-1.0: Quaxiculo 001.000
+%%Title: Quaxiculo
 %Version: 001.000
-%%CreationDate: Wed Jul 10 23:19:42 2019
+%%CreationDate: Thu Jul 11 14:07:44 2019
 %%Creator: jhudson
 %Copyright: Copyright (c) 2019, J Hudson
 %Copyright:  Licensed under the SIL Open Font License version 1.1
 %Copyright:  
-%Copyright:  
-%Copyright:  https://github.com/jhudson100/Quassatio-font
-%Copyright:  
-%Copyright:  
-%Copyright:  
+%Copyright:  https://github.com/jhudson100/Quaxiculo-font
 %Copyright:  
 %Copyright:  
 %Copyright:  This Font Software is licensed under the SIL Open Font
 %Copyright:  License, Version 1.1.
-%Copyright:  
 %Copyright:  This license is copied below, and is also available with a
 %Copyright:  FAQ at:
-%Copyright:  
 %Copyright:  http://scripts.sil.org/OFL
 %Copyright:  
 %Copyright:  
-%Copyright:  
-%Copyright:  
-%Copyright:  
 %Copyright:  -----------------------------------------------------------
-%Copyright:  
 %Copyright:  SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
-%Copyright:  
 %Copyright:  -----------------------------------------------------------
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  PREAMBLE
-%Copyright:  
 %Copyright:  The goals of the Open Font License (OFL) are to stimulate
 %Copyright:  worldwide
-%Copyright:  
 %Copyright:  development of collaborative font projects, to support the
 %Copyright:  font creation
-%Copyright:  
 %Copyright:  efforts of academic and linguistic communities, and to
 %Copyright:  provide a free and
-%Copyright:  
 %Copyright:  open framework in which fonts may be shared and improved in
 %Copyright:  partnership
-%Copyright:  
 %Copyright:  with others.
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  The OFL allows the licensed fonts to be used, studied,
 %Copyright:  modified and
-%Copyright:  
 %Copyright:  redistributed freely as long as they are not sold by
 %Copyright:  themselves. The
-%Copyright:  
 %Copyright:  fonts, including any derivative works, can be bundled,
 %Copyright:  embedded, 
-%Copyright:  
 %Copyright:  redistributed and/or sold with any software provided that
 %Copyright:  any reserved
-%Copyright:  
 %Copyright:  names are not used by derivative works. The fonts and
 %Copyright:  derivatives,
-%Copyright:  
 %Copyright:  however, cannot be released under any other type of
 %Copyright:  license. The
-%Copyright:  
 %Copyright:  requirement for fonts to remain under this license does not
 %Copyright:  apply
-%Copyright:  
 %Copyright:  to any document created using the fonts or their
 %Copyright:  derivatives.
 %Copyright:  
-%Copyright:  
-%Copyright:  
 %Copyright:  DEFINITIONS
-%Copyright:  
 %Copyright:  "Font Software" refers to the set of files released by the
 %Copyright:  Copyright
-%Copyright:  
 %Copyright:  Holder(s) under this license and clearly marked as such.
 %Copyright:  This may
-%Copyright:  
 %Copyright:  include source files, build scripts and documentation.
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  "Reserved Font Name" refers to any names specified as such
 %Copyright:  after the
-%Copyright:  
 %Copyright:  copyright statement(s).
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  "Original Version" refers to the collection of Font
 %Copyright:  Software components as
-%Copyright:  
 %Copyright:  distributed by the Copyright Holder(s).
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  "Modified Version" refers to any derivative made by adding
 %Copyright:  to, deleting,
-%Copyright:  
 %Copyright:  or substituting -- in part or in whole -- any of the
 %Copyright:  components of the
-%Copyright:  
 %Copyright:  Original Version, by changing formats or by porting the
 %Copyright:  Font Software to a
-%Copyright:  
 %Copyright:  new environment.
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  "Author" refers to any designer, engineer, programmer,
 %Copyright:  technical
-%Copyright:  
 %Copyright:  writer or other person who contributed to the Font
 %Copyright:  Software.
 %Copyright:  
-%Copyright:  
-%Copyright:  
 %Copyright:  PERMISSION & CONDITIONS
-%Copyright:  
 %Copyright:  Permission is hereby granted, free of charge, to any person
 %Copyright:  obtaining
-%Copyright:  
 %Copyright:  a copy of the Font Software, to use, study, copy, merge,
 %Copyright:  embed, modify,
-%Copyright:  
 %Copyright:  redistribute, and sell modified and unmodified copies of
 %Copyright:  the Font
-%Copyright:  
 %Copyright:  Software, subject to the following conditions:
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  1) Neither the Font Software nor any of its individual
 %Copyright:  components,
-%Copyright:  
 %Copyright:  in Original or Modified Versions, may be sold by itself.
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  2) Original or Modified Versions of the Font Software may
 %Copyright:  be bundled,
-%Copyright:  
 %Copyright:  redistributed and/or sold with any software, provided that
 %Copyright:  each copy
-%Copyright:  
 %Copyright:  contains the above copyright notice and this license. These
 %Copyright:  can be
-%Copyright:  
 %Copyright:  included either as stand-alone text files, human-readable
 %Copyright:  headers or
-%Copyright:  
 %Copyright:  in the appropriate machine-readable metadata fields within
 %Copyright:  text or
-%Copyright:  
 %Copyright:  binary files as long as those fields can be easily viewed
 %Copyright:  by the user.
 %Copyright:  
-%Copyright:  
-%Copyright:  
 %Copyright:  3) No Modified Version of the Font Software may use the
 %Copyright:  Reserved Font
-%Copyright:  
 %Copyright:  Name(s) unless explicit written permission is granted by
 %Copyright:  the corresponding
-%Copyright:  
 %Copyright:  Copyright Holder. This restriction only applies to the
 %Copyright:  primary font name as
-%Copyright:  
 %Copyright:  presented to the users.
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  4) The name(s) of the Copyright Holder(s) or the Author(s)
 %Copyright:  of the Font
-%Copyright:  
 %Copyright:  Software shall not be used to promote, endorse or advertise
 %Copyright:  any
-%Copyright:  
 %Copyright:  Modified Version, except to acknowledge the contribution(s)
 %Copyright:  of the
-%Copyright:  
 %Copyright:  Copyright Holder(s) and the Author(s) or with their
 %Copyright:  explicit written
-%Copyright:  
 %Copyright:  permission.
-%Copyright:  
-%Copyright:  
 %Copyright:  
 %Copyright:  5) The Font Software, modified or unmodified, in part or in
 %Copyright:  whole,
-%Copyright:  
 %Copyright:  must be distributed entirely under this license, and must
 %Copyright:  not be
-%Copyright:  
 %Copyright:  distributed under any other license. The requirement for
 %Copyright:  fonts to
-%Copyright:  
 %Copyright:  remain under this license does not apply to any document
 %Copyright:  created
-%Copyright:  
 %Copyright:  using the Font Software.
 %Copyright:  
-%Copyright:  
-%Copyright:  
 %Copyright:  TERMINATION
-%Copyright:  
 %Copyright:  This license becomes null and void if any of the above
 %Copyright:  conditions are
-%Copyright:  
 %Copyright:  not met.
 %Copyright:  
-%Copyright:  
-%Copyright:  
 %Copyright:  DISCLAIMER
-%Copyright:  
 %Copyright:  THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
 %Copyright:  ANY KIND,
-%Copyright:  
 %Copyright:  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY
 %Copyright:  WARRANTIES OF
-%Copyright:  
 %Copyright:  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 %Copyright:  NONINFRINGEMENT
-%Copyright:  
 %Copyright:  OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO
 %Copyright:  EVENT SHALL THE
-%Copyright:  
 %Copyright:  COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 %Copyright:  LIABILITY,
-%Copyright:  
 %Copyright:  INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR
 %Copyright:  CONSEQUENTIAL
-%Copyright:  
 %Copyright:  DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 %Copyright:  OTHERWISE, ARISING
-%Copyright:  
 %Copyright:  FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE
 %Copyright:  OR FROM
-%Copyright:  
 %Copyright:  OTHER DEALINGS IN THE FONT SOFTWARE.
-%Copyright:  
 
 % 2019-6-20: Created with FontForge (http://fontforge.org)
 % Generated by FontForge 20190217 (http://fontforge.sf.net/)
@@ -278,16 +183,16 @@ stream
 10 dict begin
 /FontType 1 def
 /FontMatrix [0.00138889 0 0 0.00138889 0 0 ]readonly def
-/FontName /Quassatio def
+/FontName /Quaxiculo def
 /FontBBox {-40 -166 440 564 }readonly def
 /PaintType 0 def
 /FontInfo 10 dict dup begin
  /version (001.000) readonly def
- /Notice (Copyright \050c\051 2019, J Hudson\012Licensed under the SIL Open Font License version 1.1\012\015\012https://github.com/jhudson100/Quassatio-font\015\012\015\012\015\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\015\012This license is copied below, and is also available with a FAQ at:\015\012http://scripts.sil.org/OFL\015\012\015\012\015\012-----------------------------------------------------------\015\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\015\012-----------------------------------------------------------\015\012\015\012PREAMBLE\015\012The goals of the Open Font License \050OFL\051 are to stimulate worldwide\015\012development of collaborative font projects, to support the font creation\015\012efforts of academic and linguistic communities, and to provide a free and\015\012open framework in which fonts may be shared and improved in partnership\015\012with others.\015\012\015\012The OFL allows the licensed fonts to be used, studied, modified and\015\012redistributed freely as long as they are not sold by themselves. The\015\012fonts, including any derivative works, can be bundled, embedded, \015\012redistributed and/or sold with any software provided that any reserved\015\012names are not used by derivative works. The fonts and derivatives,\015\012however, cannot be released under any other type of license. The\015\012requirement for fonts to remain under this license does not apply\015\012to any document created using the fonts or their derivatives.\015\012\015\012DEFINITIONS\015\012"Font Software" refers to the set of files released by the Copyright\015\012Holder\050s\051 under this license and clearly marked as such. This may\015\012include source files, build scripts and documentation.\015\012\015\012"Reserved Font Name" refers to any names specified as such after the\015\012copyright statement\050s\051.\015\012\015\012"Original Version" refers to the collection of Font Software components as\015\012distributed by the Copyright Holder\050s\051.\015\012\015\012"Modified Version" refers to any derivative made by adding to, deleting,\015\012or substituting -- in part or in whole -- any of the components of the\015\012Original Version, by changing formats or by porting the Font Software to a\015\012new environment.\015\012\015\012"Author" refers to any designer, engineer, programmer, technical\015\012writer or other person who contributed to the Font Software.\015\012\015\012PERMISSION & CONDITIONS\015\012Permission is hereby granted, free of charge, to any person obtaining\015\012a copy of the Font Software, to use, study, copy, merge, embed, modify,\015\012redistribute, and sell modified and unmodified copies of the Font\015\012Software, subject to the following conditions:\015\012\015\0121\051 Neither the Font Software nor any of its individual components,\015\012in Original or Modified Versions, may be sold by itself.\015\012\015\0122\051 Original or Modified Versions of the Font Software may be bundled,\015\012redistributed and/or sold with any software, provided that each copy\015\012contains the above copyright notice and this license. These can be\015\012included either as stand-alone text files, human-readable headers or\015\012in the appropriate machine-readable metadata fields within text or\015\012binary files as long as those fields can be easily viewed by the user.\015\012\015\0123\051 No Modified Version of the Font Software may use the Reserved Font\015\012Name\050s\051 unless explicit written permission is granted by the corresponding\015\012Copyright Holder. This restriction only applies to the primary font name as\015\012presented to the users.\015\012\015\0124\051 The name\050s\051 of the Copyright Holder\050s\051 or the Author\050s\051 of the Font\015\012Software shall not be used to promote, endorse or advertise any\015\012Modified Version, except to acknowledge the contribution\050s\051 of the\015\012Copyright Holder\050s\051 and the Author\050s\051 or with their explicit written\015\012permission.\015\012\015\0125\051 The Font Software, modified or unmodified, in part or in whole,\015\012must be distributed entirely under this license, and must not be\015\012distributed under any other license. The requirement for fonts to\015\012remain under this license does not apply to any document created\015\012using the Font Software.\015\012\015\012TERMINATION\015\012This license becomes null and void if any of the above conditions are\015\012not met.\015\012\015\012DISCLAIMER\015\012THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,\015\012EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\015\012MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\015\012OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\015\012COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\015\012INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\015\012DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\015\012FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\015\012OTHER DEALINGS IN THE FONT SOFTWARE.\015\012) readonly def
+ /Notice (Copyright \050c\051 2019, J Hudson\012Licensed under the SIL Open Font License version 1.1\012\012https://github.com/jhudson100/Quaxiculo-font\012\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is copied below, and is also available with a FAQ at:\012http://scripts.sil.org/OFL\012\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License \050OFL\051 are to stimulate worldwide\012development of collaborative font projects, to support the font creation\012efforts of academic and linguistic communities, and to provide a free and\012open framework in which fonts may be shared and improved in partnership\012with others.\012\012The OFL allows the licensed fonts to be used, studied, modified and\012redistributed freely as long as they are not sold by themselves. The\012fonts, including any derivative works, can be bundled, embedded, \012redistributed and/or sold with any software provided that any reserved\012names are not used by derivative works. The fonts and derivatives,\012however, cannot be released under any other type of license. The\012requirement for fonts to remain under this license does not apply\012to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012"Font Software" refers to the set of files released by the Copyright\012Holder\050s\051 under this license and clearly marked as such. This may\012include source files, build scripts and documentation.\012\012"Reserved Font Name" refers to any names specified as such after the\012copyright statement\050s\051.\012\012"Original Version" refers to the collection of Font Software components as\012distributed by the Copyright Holder\050s\051.\012\012"Modified Version" refers to any derivative made by adding to, deleting,\012or substituting -- in part or in whole -- any of the components of the\012Original Version, by changing formats or by porting the Font Software to a\012new environment.\012\012"Author" refers to any designer, engineer, programmer, technical\012writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted, free of charge, to any person obtaining\012a copy of the Font Software, to use, study, copy, merge, embed, modify,\012redistribute, and sell modified and unmodified copies of the Font\012Software, subject to the following conditions:\012\0121\051 Neither the Font Software nor any of its individual components,\012in Original or Modified Versions, may be sold by itself.\012\0122\051 Original or Modified Versions of the Font Software may be bundled,\012redistributed and/or sold with any software, provided that each copy\012contains the above copyright notice and this license. These can be\012included either as stand-alone text files, human-readable headers or\012in the appropriate machine-readable metadata fields within text or\012binary files as long as those fields can be easily viewed by the user.\012\0123\051 No Modified Version of the Font Software may use the Reserved Font\012Name\050s\051 unless explicit written permission is granted by the corresponding\012Copyright Holder. This restriction only applies to the primary font name as\012presented to the users.\012\0124\051 The name\050s\051 of the Copyright Holder\050s\051 or the Author\050s\051 of the Font\012Software shall not be used to promote, endorse or advertise any\012Modified Version, except to acknowledge the contribution\050s\051 of the\012Copyright Holder\050s\051 and the Author\050s\051 or with their explicit written\012permission.\012\0125\051 The Font Software, modified or unmodified, in part or in whole,\012must be distributed entirely under this license, and must not be\012distributed under any other license. The requirement for fonts to\012remain under this license does not apply to any document created\012using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are\012not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,\012EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\012MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\012OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\012COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\012INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\012DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\012FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\012OTHER DEALINGS IN THE FONT SOFTWARE.\012) readonly def
 % Copyright (c) 2019, J Hudson
 % Licensed under the SIL Open Font License version 1.1
 % 
-% https://github.com/jhudson100/Quassatio-font
+% https://github.com/jhudson100/Quaxiculo-font
 % 
 % 
 % This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -381,8 +286,8 @@ stream
 % DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 % FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 % OTHER DEALINGS IN THE FONT SOFTWARE.
- /FullName (Quassatio) readonly def
- /FamilyName (Quassatio) readonly def
+ /FullName (Quaxiculo) readonly def
+ /FamilyName (Quaxiculo) readonly def
  /Weight (Regular) readonly def
  /FSType 0 def
  /ItalicAngle 0 def
@@ -1020,7 +925,7 @@ endobj
 4 0 obj
   <<
     /Type /FontDescriptor
-    /FontName /Quassatio
+    /FontName /Quaxiculo
     /Flags 33
     /FontBBox [-40 -166 440 564]
     /StemV 0
@@ -1039,7 +944,7 @@ endobj
   <<
     /Type /Font
     /Subtype /Type1
-    /BaseFont /Quassatio
+    /BaseFont /Quaxiculo
     /FirstChar 0
     /LastChar 255
     /Widths 6 0 R
@@ -1574,7 +1479,7 @@ endobj
   <<
     /Type /Font
     /Subtype /Type1
-    /BaseFont /Quassatio
+    /BaseFont /Quaxiculo
     /FirstChar 0
     /LastChar 32
     /Widths 9 0 R
@@ -1673,7 +1578,7 @@ q 1 0 0 1 40 738 cm
 BT
   /FTB 12 Tf
   193.2 -10.92 Td
-(Font Display for Quassatio) Tj
+(Font Display for Quaxiculo) Tj
 -159.8 -43.98 Td
 26 0 Td (0) Tj
 26 0 Td (1) Tj
@@ -2483,18 +2388,18 @@ xref
 0000000015 00000 n 
 0000000186 00000 n 
 0000000244 00000 n 
-0000111593 00000 n 
-0000111875 00000 n 
-0000112060 00000 n 
-0000115155 00000 n 
-0000117565 00000 n 
-0000117750 00000 n 
-0000118169 00000 n 
-0000118575 00000 n 
-0000118650 00000 n 
-0000126352 00000 n 
-0000126375 00000 n 
-0000126620 00000 n 
+0000109883 00000 n 
+0000110165 00000 n 
+0000110350 00000 n 
+0000113445 00000 n 
+0000115855 00000 n 
+0000116040 00000 n 
+0000116459 00000 n 
+0000116865 00000 n 
+0000116940 00000 n 
+0000124642 00000 n 
+0000124665 00000 n 
+0000124910 00000 n 
 trailer
  <<
     /Size 16
@@ -2502,5 +2407,5 @@ trailer
     /Info 1 0 R
  >>
 startxref
-126699
+124989
 %%EOF

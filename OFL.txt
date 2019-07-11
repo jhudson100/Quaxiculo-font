@@ -1,7 +1,7 @@
-The Quassatio font
+The Quaxiculo font
 
 Copyright (c) 2019 J Hudson. 
-https://github.com/jhudson100/Quassatio-font
+https://github.com/jhudson100/Quaxiculo-font
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

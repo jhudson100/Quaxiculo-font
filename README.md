@@ -1,4 +1,4 @@
-The Quassatio Font
+The Quaxiculo Font
 ===================
 
 Remember the old dot-matrix printers? The really old ones with nine-pin printheads?
